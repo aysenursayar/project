@@ -1,2 +1,0 @@
-# project
-python bootcamp project
